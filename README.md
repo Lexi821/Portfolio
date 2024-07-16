@@ -1,4 +1,4 @@
-# Marketing
+# Marketing Analyst
 
 #### Technical Skills: Python, SQL, R, Tableau
 
