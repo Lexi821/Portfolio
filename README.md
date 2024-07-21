@@ -2,6 +2,10 @@
 
 #### Technical Skills: Python, SQL, R, Tableau
 
+## Contact Info
+-Email: yixxinliu@gmail.com
+-github: https://github.com/Lexi821
+
 ## Education							       		
 - M.S., Marketing Analytics	| University of Rochester (_December 2024_)	 			        		
 - B.A., Business English | Beijing Forestry University (_June 2020_)
