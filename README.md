@@ -18,4 +18,8 @@
 - Engaged with over 100 clients to collect sales data, analyzing it to optimize client cooperation methods and enhance profitability.
 - Led a team of 7 individuals, fostering collaboration across departments such as Finance and Marketing to ensure alignment with strategic goals.
 
+## Projects
+**Company Sales Analysis**
+
+
 
