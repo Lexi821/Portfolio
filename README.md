@@ -20,6 +20,14 @@
 
 ## Projects
 **Company Sales Analysis**
+[View full project](https://github.com/Lexi821/company_sales_analysis)
+
+- Designed a data warehouse from a given database by aggregating data from 6 different tables to clarify the
+useful data.
+- Answered strategic business questions by developing 8 different SQL queries on the data house to identify top
+customers and products with significant price fluctuations.
+- Generated a comprehensive dashboard by creating 5 Tableau visualizations to offer senior management
+insights into pricing strategies, sales distribution, and market trends, thereby supporting informed decision- making.
 
 
 
