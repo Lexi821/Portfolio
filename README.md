@@ -29,7 +29,7 @@ customers and products with significant price fluctuations.
 - Generated a comprehensive dashboard by creating 5 Tableau visualizations to offer senior management
 insights into pricing strategies, sales distribution, and market trends, thereby supporting informed decision- making.
 
-![Company Sales Analysis](/images/companySalesDash.jpeg)
+![Company Sales Analysis](/images/companySalesDash.png)
 
 **UK Road Safty Analysis**
 
