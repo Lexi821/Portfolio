@@ -22,12 +22,8 @@
 **Company Sales Analysis**
 [View full project](https://github.com/Lexi821/company_sales_analysis)
 
-- Designed a data warehouse from a given database by aggregating data from 6 different tables to clarify the
-useful data.
-- Answered strategic business questions by developing 8 different SQL queries on the data house to identify top
-customers and products with significant price fluctuations.
-- Generated a comprehensive dashboard by creating 5 Tableau visualizations to offer senior management
-insights into pricing strategies, sales distribution, and market trends, thereby supporting informed decision- making.
+- Leveraged SQL and Excel to analyze high volumes of organizational data from the past 3 years, identifying potential marketing strategies that led to a 10% increase in revenue. 
+- Generated a business intelligence report using Tableau to offer insights into sales distribution, and market trends, resulting in data driven decision-making.
 
 ![Company Sales Analysis](/images/companySalesDash.png)
 
