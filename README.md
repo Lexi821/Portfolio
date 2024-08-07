@@ -15,8 +15,6 @@
 - Developed, reviewed, and revised pricing for 3 new and existing distribution lines, incorporating competitive research and cost analysis to increase profitability by 10%
 - Managed the company's capital operations and daily economic activities, implementing cost controls and developing annual financial budgets worth $420k to guide financial discipline.
 - Collaborated with finance and revenue operations team to procure sales data and financial reports; Created 30+ reports and dashboards, providing insights into driving strategic decisions.
-- Engaged with over 100 clients to collect sales data, analyzing it to optimize client cooperation methods and enhance profitability.
-- Led a team of 7 individuals, fostering collaboration across departments such as Finance and Marketing to ensure alignment with strategic goals.
 
 ## Projects
 **Company Sales Analysis**
@@ -27,6 +25,9 @@
 
 ![Company Sales Analysis](/images/companySalesDash.png)
 
-**UK Road Safty Analysis**
-
+**Tableau-Based Analysis for Increased Profitability and Operational Efficiency**
+- Built a Business Intelligence report using Tableau, offering insights into marketing strategies and customer acquisition strategies to increase profitability by 25%.
+- Implemented a forecast model aligned with inventory pick duration analysis to predict future picking durations, resulting in better resource planning and a 10% increase in efficiency.
+![Company Sales Analysis](/images/MavenRoasters.png)
+![Company Sales Analysis](/images/MavenRoastersDetail.png)
 
