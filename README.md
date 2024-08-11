@@ -31,3 +31,7 @@
 ![Company Sales Analysis](/images/MavenRoasters.png)
 ![Company Sales Analysis](/images/MavenRoastersDetail.png)
 
+**Data analysis in excel**
+- Built a Business Intelligence report using Tableau, offering insights into marketing strategies and customer acquisition strategies to increase profitability by 25%.
+- Implemented a forecast model aligned with inventory pick duration analysis to predict future picking durations, resulting in better resource planning and a 10% increase in efficiency.
+
