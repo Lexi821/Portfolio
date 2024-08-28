@@ -6,17 +6,6 @@
 - Email: yixxinliu@gmail.com
 - github: https://github.com/Lexi821
 
-## Education							       		
-- M.S., Marketing Analytics	| University of Rochester (_December 2024_)	 			        		
-- B.A., Business English | Beijing Forestry University (_June 2020_)
-
-## Work Experience
-**Co-Founder @ Yan'an Fuyueniu Co. (_December 2020 - February 2023_)**
-- Identified inefficiencies in warehouse management; led the initiative to streamline the inventory process, resulting in a 60% increase in operational efficiency.
-- Developed pricing strategies for 3 new and existing distribution lines, incorporating competitive research and cost analysis to increase profitability by 15%.
-- Collaborated with finance and sales team to procure sales data and financial reports, created reports and dashboards using pivot table in Excel, providing insights into company performance and driving strategic decisions.
-- Developed and cultiveated lucrative relationships with both new and existing clients through effective communication and exemplary interpersonal skills.
-
 ## Projects
 **Company Sales Analysis**
 [View full project](https://github.com/Lexi821/company_sales_analysis)
