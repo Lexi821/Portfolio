@@ -12,9 +12,10 @@
 
 ## Work Experience
 **Co-Founder @ Yan'an Fuyueniu Co. (_December 2020 - February 2023_)**
-- Developed, reviewed, and revised pricing for 3 new and existing distribution lines, incorporating competitive research and cost analysis to increase profitability by 10%
-- Managed the company's capital operations and daily economic activities, implementing cost controls and developing annual financial budgets worth $420k to guide financial discipline.
-- Collaborated with finance and revenue operations team to procure sales data and financial reports; Created 30+ reports and dashboards, providing insights into driving strategic decisions.
+- Identified inefficiencies in warehouse management; led the initiative to streamline the inventory process, resulting in a 60% increase in operational efficiency.
+- Developed pricing strategies for 3 new and existing distribution lines, incorporating competitive research and cost analysis to increase profitability by 15%.
+- Collaborated with finance and sales team to procure sales data and financial reports, created reports and dashboards using pivot table in Excel, providing insights into company performance and driving strategic decisions.
+- Developed and cultiveated lucrative relationships with both new and existing clients through effective communication and exemplary interpersonal skills.
 
 ## Projects
 **Company Sales Analysis**
@@ -29,7 +30,6 @@
 - Built a Business Intelligence report using Tableau, offering insights into marketing strategies and customer acquisition strategies to increase profitability by 25%.
 - Implemented a forecast model aligned with inventory pick duration analysis to predict future picking durations, resulting in better resource planning and a 10% increase in efficiency.
 ![Company Sales Analysis](/images/MavenRoasters.png)
-![Company Sales Analysis](/images/MavenRoastersDetail.png)
 
 **Data analysis in excel**
 - Built a Business Intelligence report using Tableau, offering insights into marketing strategies and customer acquisition strategies to increase profitability by 25%.
