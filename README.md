@@ -7,6 +7,12 @@
 - github: https://github.com/Lexi821
 
 ## Projects
+
+**Tableau-Based Analysis for Increased Profitability and Operational Efficiency**
+- Built a Business Intelligence report using Tableau, offering insights into marketing strategies and customer acquisition strategies to increase profitability by 25%.
+- Implemented a forecast model aligned with inventory pick duration analysis to predict future picking durations, resulting in better resource planning and a 10% increase in efficiency.
+![Company Sales Analysis](/images/MavenRoasters.png)
+
 **Company Sales Analysis**
 [View full project](https://github.com/Lexi821/company_sales_analysis)
 
@@ -15,10 +21,6 @@
 
 ![Company Sales Analysis](/images/companySalesDash.png)
 
-**Tableau-Based Analysis for Increased Profitability and Operational Efficiency**
-- Built a Business Intelligence report using Tableau, offering insights into marketing strategies and customer acquisition strategies to increase profitability by 25%.
-- Implemented a forecast model aligned with inventory pick duration analysis to predict future picking durations, resulting in better resource planning and a 10% increase in efficiency.
-![Company Sales Analysis](/images/MavenRoasters.png)
 
 **Data analysis in excel**
 - Built a Business Intelligence report using Tableau, offering insights into marketing strategies and customer acquisition strategies to increase profitability by 25%.
