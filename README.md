@@ -28,6 +28,7 @@
 - Implemented a forecast model aligned with inventory pick duration analysis to predict future picking durations, resulting in better resource planning and a 10% increase in efficiency.
 
 **Text analysis using skincare product reviews**
+[View full project](https://github.com/Lexi821/Text-analysis-of-skincare-product-review)
 
 - Explored a dataset of over 4,000 skincare product reviews using Embedding Projector and Word2Vec in Python, identifying key ingredients and treatment effectiveness for various skin conditions.
 - Identified five top skincare solutions, and provided data-driven recommendations to enhance customer satisfaction.
