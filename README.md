@@ -1,12 +1,6 @@
 # Marketing Analyst
 
-#### Technical Skills: Python, SQL, R, Tableau
-
-## Contact Info
-- Email: yixxinliu@gmail.com
-- github: https://github.com/Lexi821
-
-## Projects
+### Projects
 
 **Tableau-Based Analysis for Increased Profitability and Operational Efficiency**
 - Built a Business Intelligence report using Tableau, offering insights into marketing strategies and customer acquisition strategies to increase profitability by 25%.
