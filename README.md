@@ -29,12 +29,12 @@
 
 **Text analysis using skincare product reviews**
 
--Explored a dataset of over 4,000 skincare product reviews using Embedding Projector and Word2Vec in Python, identifying key ingredients and treatment effectiveness for various skin conditions.
+- Explored a dataset of over 4,000 skincare product reviews using Embedding Projector and Word2Vec in Python, identifying key ingredients and treatment effectiveness for various skin conditions.
 - Identified five top skincare solutions, and provided data-driven recommendations to enhance customer satisfaction.
 
 Embedding projector:
 
-![embedding projector](/images/MavenRoasters2.png)
+![embedding projector](/images/projector1.png)
 
 
 
