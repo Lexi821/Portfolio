@@ -27,11 +27,14 @@
 - Built a Business Intelligence report using Tableau, offering insights into marketing strategies and customer acquisition strategies to increase profitability by 25%.
 - Implemented a forecast model aligned with inventory pick duration analysis to predict future picking durations, resulting in better resource planning and a 10% increase in efficiency.
 
-**Doctor Review Analysis**
-- Implemented data preprocessing and cleaning techniques using pandas, numpy in Python to handle an 80,000-entry dataset for sentiment analysis.
-- Developed a sentiment analysis model to classify doctor reviews into high and low knowledge categories, utilizing natural language processing techniques including TF-IDF vectorization, and NLTK's sentiment analysis for feature engineering.
-- Applied logistic regression from statsmodels to predict the knowledge level of doctors based on textual review data, achieving an accuracy of 91.9%.
+**Text analysis using skincare product reviews**
 
+-Explored a dataset of over 4,000 skincare product reviews using Embedding Projector and Word2Vec in Python, identifying key ingredients and treatment effectiveness for various skin conditions.
+- Identified five top skincare solutions, and provided data-driven recommendations to enhance customer satisfaction.
+
+Embedding projector:
+
+![embedding projector](/images/MavenRoasters2.png)
 
 
 
